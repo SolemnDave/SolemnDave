@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SolemnDave
-- 👀 I’m interested in ...
+- 👀 I’m interested in Becoming a Software Devloper.
 - 🌱 I’m currently learning Python and Solidity. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at Davidrjr94@gmail.com
