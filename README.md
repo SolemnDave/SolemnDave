@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SolemnDave
 - 👀 I’m interested in Becoming a Software Devloper.
-- 🌱 I’m currently learning Python and Solidity. 
+- 🌱 I’m currently learning Gaming Development and Backend Development with Python. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at Davidrjr94@gmail.com
 
