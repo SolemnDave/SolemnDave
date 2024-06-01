@@ -1,8 +1,8 @@
 # 🐍🐍🐍 SolemnDave 🐍🐍🐍
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Full Stack Developer & Cloud Engineer
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I am a multi-talented engineer specializing in Full Stack Development, Cloud Engineering, Cybersecurity, and DevOps. My goal is to build robust, scalable, and secure websites hosted on the cloud. I excel in planning and designing resilient cloud infrastructures and secure systems, solving real-world problems through innovative coding solutions. Leveraging technologies such as AWS and Azure, I create efficient and scalable applications. I am passionate about making websites, crafting architectures, continuous learning, cloud  computing and solving problems.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
