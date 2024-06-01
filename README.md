@@ -1,6 +1,6 @@
 # SolemnDave 🌩️
 
-<img src="https://github.com/SolemnDave/SolemnDave/blob/main/TypeScript%20Background%20Image.png" alt="TypeScript Background Image" width="1200" height="300">
+<img src="https://github.com/SolemnDave/SolemnDave/blob/main/SolemnCloud.png" alt="Solemn Cloud Image" width="150" height="150">
 
 **`Debugging the World, One Line at a Time.`**
 
