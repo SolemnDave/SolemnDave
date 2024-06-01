@@ -1,6 +1,6 @@
 # SolemnDave 🌩️
 
-<img src="https://github.com/SolemnDave/SolemnDave/blob/main/SolemnCloud.png" alt="Solemn Cloud Image" width="120" height="120">
+<img src="https://github.com/SolemnDave/SolemnDave/blob/main/SolemnCloud.png" alt="Solemn Cloud Image" width="140" height="140">
 
 **`Debugging the World, One Line at a Time.`**
 
