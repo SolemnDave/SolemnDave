@@ -48,6 +48,4 @@ I am a multi-talented engineer specializing in Full Stack Development, Cloud Eng
   </tr>
 </table>
 
----
-
 
