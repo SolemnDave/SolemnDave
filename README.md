@@ -33,7 +33,7 @@ I am a multi-talented engineer specializing in Full Stack Development, Cloud Eng
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolemnDave&hide_progress=true" width="400" />
 </div>
 
-----
+#
 
 ### Statistics 
 
