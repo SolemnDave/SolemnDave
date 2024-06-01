@@ -1,5 +1,7 @@
 # SolemnDave 🌩️
 
+<img src="https://github.com/SolemnDave/SolemnDave/blob/main/TypeScript%20Background%20Image.png" alt="TypeScript Background Image" width="1200" height="300">
+
 **`Debugging the World, One Line at a Time.`**
 
 I am a multi-talented engineer specializing in Full Stack Development, Cloud Engineering, Cybersecurity, and DevOps. My goal is to build robust, scalable, and secure websites hosted on the cloud. I excel in planning and designing resilient cloud infrastructures and secure systems, solving real-world problems through innovative coding solutions. Leveraging technologies such as AWS and Azure, I create efficient and scalable applications. I am passionate about making websites, crafting architectures, continuous learning, cloud  computing and solving problems.
