@@ -1,4 +1,4 @@
-# 🐍🐍🐍 SolemnDave 🐍🐍🐍
+# SolemnDave 🌩️
 
 **`Debugging the World, One Line at a Time.`**
 
@@ -27,18 +27,13 @@ I am a multi-talented engineer specializing in Full Stack Development, Cloud Eng
    </p>
 
 ---
+### Top Languages
 
+<div align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolemnDave&hide_progress=true" width="450" />
+</div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolemnDave&hide_progress=true)
-
-
-
-
-
-
-
----
+----
 
 ### Statistics 
 
