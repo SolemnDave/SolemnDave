@@ -4,7 +4,7 @@
 
 I am a multi-talented engineer specializing in Full Stack Development, Cloud Engineering, Cybersecurity, and DevOps. My goal is to build robust, scalable, and secure websites hosted on the cloud. I excel in planning and designing resilient cloud infrastructures and secure systems, solving real-world problems through innovative coding solutions. Leveraging technologies such as AWS and Azure, I create efficient and scalable applications. I am passionate about making websites, crafting architectures, continuous learning, cloud  computing and solving problems.
 
-![SolemnDave's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolemnDave&show_icons=true&theme=tokyonight)
+![SolemnDave's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolemnDave&show_icons=true&theme=onedark)
 
 
    <p align="left">
