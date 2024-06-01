@@ -4,6 +4,8 @@
 
 I am a multi-talented engineer specializing in Full Stack Development, Cloud Engineering, Cybersecurity, and DevOps. My goal is to build robust, scalable, and secure websites hosted on the cloud. I excel in planning and designing resilient cloud infrastructures and secure systems, solving real-world problems through innovative coding solutions. Leveraging technologies such as AWS and Azure, I create efficient and scalable applications. I am passionate about making websites, crafting architectures, continuous learning, cloud  computing and solving problems.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
