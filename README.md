@@ -17,13 +17,9 @@ I am a multi-talented engineer specializing in Full Stack Development, Cloud Eng
         <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/New York-USA-blue?style=for-the-badge&logo=location&logoColor=red"/></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=SolemnDave&style=plastic)
 
 ---
-
-![](https://komarev.com/ghpvc/?username=SolemnDave&style=plastic)
-</a>
-</p>
-
 ### Statistics 
 
 <table>
