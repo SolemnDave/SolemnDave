@@ -20,6 +20,11 @@ I am a multi-talented engineer specializing in Full Stack Development, Cloud Eng
 ![](https://komarev.com/ghpvc/?username=SolemnDave&style=plastic)
 
 ---
+
+<div align="center">
+  <h3>Statistics</h3>
+  </div> 
+
 <table>
   <tr>
     <td>
