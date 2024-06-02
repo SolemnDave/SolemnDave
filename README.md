@@ -20,28 +20,21 @@ I am a multi-talented engineer specializing in Full Stack Development, Cloud Eng
 ![](https://komarev.com/ghpvc/?username=SolemnDave&style=plastic)
 
 ---
-### Statistics 
-
 <table>
   <tr>
     <td>
       <img alt="SolemnDave's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SolemnDave&show_icons=true&hide=contribs&rank_icon=github&theme=chartreuse-dark"  style="height: 200px; width: auto;" />
     </td>
     <td>
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=SolemnDave&theme=chartreuse-dark"  style="height: 200px; width: auto;" />
+      <img alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolemnDave&layout=compact&theme=chartreuse-dark"  style="height: 200px; width: auto;" />
     </td>
   </tr>
 </table>
 
-#
-
-### Top Languages
-
 <div align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolemnDave&hide_progress=true" width="600" height="400" />
+  <img src="https://streak-stats.demolab.com?user=SolemnDave&theme=chartreuse-dark" alt="GitHub Streak">
 </div>
 
-#
 
 
 
