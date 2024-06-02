@@ -20,7 +20,7 @@ I am a multi-talented engineer specializing in Full Stack Development, Cloud Eng
 ---
 
 <div align="center">
-  <h3>📉 Statistics 📈</h3>
+  <h3>📈📉 Statistics 📈📉</h3>
   </div> 
 
 <table>
