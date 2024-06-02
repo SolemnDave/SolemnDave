@@ -22,7 +22,6 @@ I am a multi-talented engineer specializing in Full Stack Development, Cloud Eng
 <div align="center">
   <h2> Statistics </h2>
   </div> 
-
 <table>
   <tr>
     <td>
