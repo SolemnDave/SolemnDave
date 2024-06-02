@@ -11,13 +11,13 @@ I am a multi-talented engineer specializing in Full Stack Development, Cloud Eng
         <img alt="site" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-SolemnDave.cloud-silver?style=for-the-badge&logo=mention&logoColor=black"/>
     </a>
     <a href="https://www.linkedin.com/in/davereyjr/">
-        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://medium.com/@solemn_dave">
-        <img alt="Medium" title="Medium" src="https://custom-icon-badges.demolab.com/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
+        <img alt="Medium" title="Medium" src="https://custom-icon-badges.demolab.com/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
     <a href="https://resume.solemndave.com/">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SolemnDave?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SolemnDave?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
     <a href="https://github.com/AlfonsoJohn?tab=repositories&sort=stargazers">
         <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/New York-USA-blue?style=for-the-badge&logo=location&logoColor=red"/>
