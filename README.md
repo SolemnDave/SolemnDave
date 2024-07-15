@@ -21,14 +21,14 @@ I am a multi-talented engineer specializing in Cloud Engineering, DevOps, and Se
 
 <div align="center">
   <h2> Statistics </h2>
-</div> 
+  </div> 
 <table>
   <tr>
     <td>
-      <img alt="SolemnDave's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SolemnDave&show_icons=true&hide=contribs&rank_icon=github&theme=chartreuse-dark" style="height: 200px; width: auto;" />
+      <img alt="SolemnDave's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SolemnDave&show_icons=true&hide=contribs&rank_icon=github&theme=chartreuse-dark"  style="height: 200px; width: auto;" />
     </td>
     <td>
-      <img alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolemnDave&layout=compact&theme=chartreuse-dark" style="height: 200px; width: auto;" />
+      <img alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolemnDave&layout=compact&theme=chartreuse-dark"  style="height: 200px; width: auto;" />
     </td>
   </tr>
 </table>
