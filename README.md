@@ -2,7 +2,9 @@
 
 **`Debugging the World, One Line at a Time.`**
 
-I am a multi-talented engineer specializing in Cloud Engineering, DevOps, and Security. My goal is to build robust, scalable, and secure websites hosted on the cloud. I excel in planning and designing resilient cloud infrastructures and secure systems, solving real-world problems through innovative coding solutions. Leveraging technologies such as AWS and Azure, I create efficient and scalable applications. I am passionate about making websites, crafting architectures, continuous learning, cloud  computing and solving problems.
+I have spent most of my career in education but am now transitioning into the world of technology. Currently, I am a junior cloud engineer in the Cloud Engineer Academy. I am a multi-talented engineer primarily focused on FullStack development, Cloud Engineering, and Security. I enjoy continuous learning, building websites, creating cloud architectures, and solving real-world problems.
+
+My goal is to leverage my diverse skill set to create scalable and efficient applications. Despite having learned so much, I am eager to continue growing and mastering new technologies.
 
 <p align="left">
     <a href="https://solemndave-portfolio.vercel.app/">
